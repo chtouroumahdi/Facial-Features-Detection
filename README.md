@@ -4,21 +4,13 @@ This post will demonstrate localization of regions along the eyes, eyebrows, nos
 [![Facial Features Detection](http://img.youtube.com/vi/LR8AfTFxo6Y/0.jpg)](http://www.youtube.com/watch?v=LR8AfTFxo6Y "Facial Features Detection")
 ## Dependencies
 
-* PyQt5
-* Subprocess
-* Shlex
-* Opencv
-* Darknet
+* numpy 
+* argparse
+* imutils
+* dlib
+* cv2
+
 
 ## Usage
 
-In order to test the " Detect Mahdi " Function you need to download the retrained weights and cfg files:
-* obj.data 
-* obj.cfg and put it in "cfg file"
-* obj_3000.weight [from here](https://drive.google.com/open?id=1a0fQyW0KysaThMIJOi5eRKQhMeg_ubU3)
-
-In order to test the " Detect all " Function you need to download:
-* coco.data and put it in "cfg file"
-* yolov3-tiny.cfg and put it in "cfg file"
-* yolov3-tiny.weights [from here](https://drive.google.com/open?id=1csk0BA45bOxOITosukfLF3c_9EbQln43)
-
+In order test the facial feature detector run "python facial_Loc name_of_video.mp4" and put pre.dat in the same directory with pre.dat and facial_Loc.py you can download pre.dat  [from here](https://drive.google.com/open?id=12RzMZ9sp2PxyKtmzO1ZkePKUHUFGsqvI) 
