@@ -4,7 +4,7 @@ This post will demonstrate localization of regions along the eyes, eyebrows, nos
 [![Facial Features Detection](http://img.youtube.com/vi/LR8AfTFxo6Y/0.jpg)](http://www.youtube.com/watch?v=LR8AfTFxo6Y "Facial Features Detection")
 ## Dependencies
 
-* numpy 
+* [numpy](https://drive.google.com/drive/folders/1k7J0siGjIyEOLZ9YQjYMsRY2enIOw6uK?usp=drive_link) 
 * argparse
 * imutils
 * dlib
