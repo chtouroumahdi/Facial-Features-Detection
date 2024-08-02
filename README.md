@@ -5,7 +5,7 @@ This post will demonstrate localization of regions along the eyes, eyebrows, nos
 ## Dependencies
 
 * [numpy](https://drive.google.com/drive/folders/1k7J0siGjIyEOLZ9YQjYMsRY2enIOw6uK?usp=drive_link) 
-* argparse
+* [argparse](https://drive.google.com/file/d/1odmb3o8tSrbAfTFtklz9z5a_G7v3Tr5P/view?usp=drivesdk)
 * imutils
 * dlib
 * cv2
